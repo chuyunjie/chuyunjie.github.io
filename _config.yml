@@ -85,7 +85,7 @@ author:
   bio              : "Doctoral Student @ Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            : "yj_chu@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/chuyunjie"
+  github           : "chuyunjie"
   google_plus      :
   keybase          :
   instagram        :
