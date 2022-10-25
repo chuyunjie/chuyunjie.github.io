@@ -7,6 +7,8 @@ tags:
   - Thinking
 ---
 
+My thinking on how to read a scientific paper.
+
 # How to Read Scientific Papers
 
 As beginning researchers, finding our own way to read scientific papers is the first problem we need to solve, which can help us get a better understanding of papers in less time. Appropriate reading habits also make us think clearly about how to continue our future work.
